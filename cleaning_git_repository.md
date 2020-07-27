@@ -2,7 +2,8 @@
 
 `git shortlog -e -s -n`
 
-# Changing author's email in commits (useful if you commited with different e-mails because you were lazy or you were in different computers...)
+# Changing author's email in commits 
+(useful if you commited with different e-mails because you were lazy or you were in different computers...)
 
 Use this bash script:
 
