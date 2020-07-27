@@ -5,7 +5,7 @@ git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch path_to_f
 
 You may be interested in the following list:
 
-#React-native
+# React-native
 
 node_modules/
 android/build/
