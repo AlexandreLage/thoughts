@@ -8,7 +8,11 @@ You may be interested in the following list:
 # React-native
 
 node_modules/
+
 android/build/
+
 android/app/build/
+
 android/.gradle
+
 ios/Pods
